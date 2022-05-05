@@ -1,0 +1,21 @@
+body
+{
+  text-align: center;
+  background: #000000;
+  align-items: center;
+}
+@font-face
+{
+font-family: technology;
+src:url(Technology.ttf);
+}
+#clock
+{
+font-family: 'technology';
+font-style: normal;
+font-size: 270px;
+width: 1200px;
+margin: 180px;
+text-align: center;
+color: white;
+}
